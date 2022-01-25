@@ -1,2 +1,3 @@
-# Snakes
-Developed by Praveen kumar
+#include<iostream.h>
+#include<stdio.h>
+printf("Hello!");
